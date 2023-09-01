@@ -23,7 +23,7 @@ class MyDocument extends Document {
             href="/favicon/favicon-16x16.png"
           />
           <link rel="manifest" href="/favicon/site.webmanifest" />
-          <script data-ad-client="ca-pub-5021867083203973" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js%22%3E"></script>
+          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5021867083203973"crossorigin="anonymous"></script>
         </Head>
         <body>
           <Main />
@@ -33,7 +33,7 @@ class MyDocument extends Document {
             <h1 className="title">What is the use of this YouTube Thumbnail Grabber website?</h1>
             <p className="parag">People use this YouTube thumbnail downloader website for getting thumbnail from any youtube videos. That can be used in presentation, animation work or many other activities.</p>
             <h1 className="title">How to use this YouTube thumbnail downloader website?</h1>
-            <p className="parag">It's quite easy just copy any YouTube link whom thumbnail you want. youtube cover download Easily you can download youtube cover.</p>
+            <p className="parag">I have shared some of screenshot in which i have guided you how you can use this YouTube downloader website. It's quite easy first step is you just copy any YouTube link whom thumbnail you want. youtube cover download Easily you can download you tube cover.</p>
             <h1 className="title">Is it legal to download YouTube thumbnails?</h1>
             <p className="parag">Of course it's 100% legal you can download any YouTube videos thumbnails but as you know thumbnail and video are copyrighted product you should take author permissions 1st in order to reuse that..</p>
             <h1 className="title">Compatibility of this YT thumbnail grabber website</h1>
